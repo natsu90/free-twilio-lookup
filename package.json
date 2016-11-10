@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "async": "^2.1.2",
+    "cheerio": "^0.22.0",
+    "request": "^2.74.0"
+  },
+  "devDependencies": {
+    "minimist": "^1.2.0"
+  }
+}
